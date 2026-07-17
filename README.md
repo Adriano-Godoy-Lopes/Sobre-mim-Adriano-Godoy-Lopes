@@ -34,13 +34,7 @@ Aqui estão algumas das tecnologias e conceitos com as quais trabalho e venho me
 
 ---
 
-### 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=200992025-stack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=200992025-stack&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-</p>
----
 
 ### 🌐 Vamos nos conectar?
 
